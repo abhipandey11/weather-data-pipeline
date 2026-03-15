@@ -46,6 +46,8 @@ Streamlit Dashboard
 ---
 
 ## Project Structure
+text
+'''
 
 weather-data-pipeline
 │
@@ -62,6 +64,7 @@ weather-data-pipeline
 ├── requirements.txt
 ├── render.yaml
 └── README.md
+'''
 
 ---
 
