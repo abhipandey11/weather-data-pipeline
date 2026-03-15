@@ -10,6 +10,7 @@ The project demonstrates fundamental **data engineering and data analytics conce
 ---
 
 ## Architecture
+'''text
 
 Open-Meteo API
 ↓
@@ -18,6 +19,8 @@ Python ETL Pipeline
 Supabase PostgreSQL Database
 ↓
 Streamlit Dashboard
+
+'''
 
 ---
 
@@ -46,8 +49,8 @@ Streamlit Dashboard
 ---
 
 ## Project Structure
-text
-'''
+
+'''text
 
 weather-data-pipeline
 │
